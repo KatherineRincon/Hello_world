@@ -7,4 +7,4 @@ time.sleep(3)
 print(type("hola")) #la funcion type me dice que tipo de dato esta en parentesis
 print(type(4))
 print(type(5.5))
-      
+print("pruebagitignore")
